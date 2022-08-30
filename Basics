@@ -11,7 +11,8 @@ sudo apt install build-essential
 sudo apt install libfftw3-dev OR
 sudo apt-get install -y libfftw3-dev
 
-
+#Commads to install Chimera 
+# Visit Website : 
 chmod +X chimera XXX 
 sudo ./ chimera XXX 
 
