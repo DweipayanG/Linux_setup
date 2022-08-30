@@ -1,0 +1,28 @@
+#Google Chrome 
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo apt install ./google-chrome-stable_current_amd64.deb
+
+#Commands to keep Ubuntu Up to date 
+sudo apt update
+sudo apt upgrade
+sudo apt install gcc
+sudo apt install cmake
+sudo apt install build-essential
+sudo apt install libfftw3-dev OR
+sudo apt-get install -y libfftw3-dev
+
+
+chmod +X chimera XXX 
+sudo ./ chimera XXX 
+
+
+#OBS STUDIO 
+sudo add-apt-repository ppa:obsproject/obs-studio
+sudo apt update
+sudo apt install ffmpeg obs-studio
+
+
+sudo apt install v4l2loopback-dkms 
+sudo add-apt-repository ppa:obsproject/obs-studio
+sudo apt update
+sudo apt install obs-studio
